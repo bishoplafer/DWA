@@ -12,6 +12,12 @@
 
 ```$ git push github master```
 
-####Push to Remote Server
+####Push to Remote Server Staging Server
+
+```$ git push Staging master```
+
+####Test, Test, Test
+
+####Push to Remote Server Production Server
 
 ```$ git push LiveServer master```
