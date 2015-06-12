@@ -1,5 +1,5 @@
 #Pohsible.com
-####Do development locally
+####Developm site locally
 ####Once satisfied add files to git
 
 ```$ git add -A```
