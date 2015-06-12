@@ -2,8 +2,6 @@
 body {
 	font-family: 'Droid Sans', sans-serif;
 	font-size: 1em;
-	background-color: #000000;
-	color: #ffffff;
 }
 
 footer {
@@ -13,11 +11,6 @@ footer {
 	color: #999;
 	text-align: center;
 }
-
-div#socialmedia {
-	display: inline;
-}
-
 
 /* Media Querries
 ---------------------------------------------------------*/
