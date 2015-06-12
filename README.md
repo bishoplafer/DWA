@@ -14,4 +14,4 @@
 
 ####Push to Remote Server
 
-```$git push LiveServer master```
+```$ git push LiveServer master```
