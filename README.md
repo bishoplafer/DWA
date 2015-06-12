@@ -1,4 +1,4 @@
-Example: Staging Promotion Deployment Plan for Hubot App
+##Pohsible.com
 To deploy to the Staging Server Strict adherence to the following process is required.
 
 Merge Dev Branch into Master
@@ -41,3 +41,7 @@ Communicate Successful Promotion of New Feature
 Brag a little about how sweet your new feature is! Ideally this will promote other users to try it out thereby testing it further prior to going live in production.
 Use the hastag #newFeatureStaged in the #staging_dwp channel. Identify the name of your feature, that it has been completed, and any info on how to use it not provided in Derpbot’s help command.
 When the scheduled promotion of Staging to Production occurs you will need to test every feature that has been recently staged to make sure that your co-workers have not accidentally, or intentionally =P, modified the feature.
+=======
+# DWA
+Deployment of Web Applications
+>>>>>>> f78bb5e877b187110737e30a13ed111dbffb8f92
